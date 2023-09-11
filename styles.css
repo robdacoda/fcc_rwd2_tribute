@@ -1,0 +1,14 @@
+.center {
+  display: block;
+  text-align: center;
+  width: 100%;
+}
+  #img-div{
+  background-color: blue;
+}
+#image {
+  width: 100%;
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
